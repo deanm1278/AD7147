@@ -88,10 +88,6 @@ void AD7147::readAllSensors(void){
 	}
 }
 
-//---------------------------------
-//InitialiseSlider()
-//---------------------------------
-//Function that initialises the slider algorithm.
 void AD7147::setAmbientValues(void)
 {
 	byte i;
